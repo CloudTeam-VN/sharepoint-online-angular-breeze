@@ -21,6 +21,7 @@
     "@angular/platform-browser": "^4.0.0",
     "@angular/platform-browser-dynamic": "^4.0.0",
     "@angular/router": "^4.0.0",
+    "@types/adal": "^1.0.27",
     "adal-angular": "^1.0.14",
     "breeze-client": "^1.6.3",
     "breeze-client-labs": "^1.5.12",
